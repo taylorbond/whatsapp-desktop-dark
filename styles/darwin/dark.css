@@ -308,6 +308,7 @@ html[dir] ._3979j {
 /* Chat header */
 ._3fs0K {
     background-color: var(--dark) !important; 
+    border-color: var(--dark) !important; 
 }
 ._1lpto {
     /* Text Color */

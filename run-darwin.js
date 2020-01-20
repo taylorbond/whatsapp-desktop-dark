@@ -98,7 +98,7 @@ function applyDarkStyles(procPath) {
         console.log('Extracting..');
         let extPath = path.join(__dirname, 'extracted');
         asar.extractAll(fullpath, extPath);
-
+        // return;
         console.log('Injecting styles..');
         let stylePath = path.join(__dirname, 'styles', 'darwin');
         if (fs.existsSync(path.join(extPath, 'index.html'))) {

@@ -129,9 +129,47 @@ span[class="_3PxOr"] > svg > rect {
 #app .app #side {
     background-color: var(--darker); }
 
+._2vikl {
+    background-color: var(--darker) !important;
+}
+
+/* Search or start new chat */
+.ZP8RM {
+    background-color: var(--darker) !important;
+}
+._183ES {
+    /* Placeholder text */
+    background-color: var(--darker) !important;
+}
+.eiCXe {
+    /* Label */
+    background-color: var(--darker) !important;
+}
+._2zCfw {
+    /* Input */
+    background-color: var(--darker) !important;
+}
+
 /* Chat list. */
 #side > header {
     background-color: var(--darker) !important; }
+.X7YrQ {
+    background-color: var(--darker) !important;
+}
+._2UaNq._3mMX1 {
+    background-color: var(--dark_alpha) !important;
+}
+.hover._2UaNq {
+    background-color: var(--dark_alpha) !important;
+}
+.xD91K {
+    /* Last chat text */
+    color: rgba(255, 255, 255, 0.6)
+}
+._0LqQ {
+    /* Last Updated Time */
+    color: rgba(255, 255, 255, 0.45)
+}
 
 /* Chat preloader */
 ._2sOZc {
@@ -267,7 +305,23 @@ html[dir] ._3979j {
 ._1KDYa ._1i7uJ {
     background-color: var(--dark) !important; }
 
+/* Chat header */
+._3fs0K {
+    background-color: var(--dark) !important; 
+}
+._1lpto {
+    /* Text Color */
+    color: rgba(255, 255, 255, 0.6)
+}
+._3Q3ui.i1XSV {
+    /* Small Text Color */
+    color: rgba(255, 255, 255, 0.45)
+}
+
 /* Body. */
+._1_keJ {
+    background-color: var(--darker) !important;
+}
 ._1KDYa .rK2ei ._26JG5,
 ._1KDYa .rK2ei ._2UaNq {
     background-color: transparent; }

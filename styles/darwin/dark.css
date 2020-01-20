@@ -159,6 +159,9 @@ span[class="_3PxOr"] > svg > rect {
 ._2UaNq._3mMX1 {
     background-color: var(--dark_alpha) !important;
 }
+._2UaNq._3mMX1> ._2WP9Q > .xD91K._2Bw3Q {
+    color: rgba(255, 255, 255, 0.45)
+}
 .hover._2UaNq {
     background-color: var(--dark_alpha) !important;
 }
